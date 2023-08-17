@@ -1,8 +1,8 @@
  ## Repetir la frase
 
- #### Escribir un codigo para la consola que le pida al usuario ingresar una frase y la imprima debajo.
+ * #### PROBLEMA: Escribir un codigo para la consola que le pida al usuario ingresar una frase y la imprima debajo.
 
- #### Ej: El resultado en la consola de ejecutarlo debería de verse así:
+ * #### El resultado en la consola debería verse así:
 
 <pre> 
     $ ruby ejercicio1.rb

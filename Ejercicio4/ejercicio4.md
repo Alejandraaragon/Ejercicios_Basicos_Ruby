@@ -1,8 +1,8 @@
  ## Adivina mi edad
 
- #### Escribir un codigo para la consola que le pregunte al usuario el año en que nació e imprima su edad actual.
+* #### PROBLEMA: Escribir un codigo para la consola que le pregunte al usuario el año en que nació e imprima su edad actual.
 
- #### Ej: El resultado en la consola debería verse así: 
+ * #### El resultado en la consola debería verse así: 
 
 <pre> 
     $ ruby ejercicio4.rb

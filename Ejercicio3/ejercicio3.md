@@ -1,8 +1,8 @@
  ## Suma
 
- #### Escribir un codigo que pida al usuario ingresar dos numeros e imprima la suma de los dos.
+ * #### PROBLEMA: Escribir un codigo que pida al usuario ingresar dos numeros e imprima la suma de los dos.
 
- #### Ej: El resultado en la consola de ejecutarlo debería de verse así:
+* #### El resultado en la consola debería verse así:
 
 <pre> 
     $ ruby ejercicio3.rb

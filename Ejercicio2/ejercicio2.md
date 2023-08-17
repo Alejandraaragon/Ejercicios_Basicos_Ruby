@@ -1,8 +1,8 @@
  ## Saludar
 
- #### Escribir un codigo para la consola que le pida al usuario ingresar su nombre y lo imprima junto a un "hola".
+ * #### PROBLEMA: Escribir un codigo para la consola que le pida al usuario ingresar su nombre y lo imprima junto a un "hola".
 
- #### Ej: El resultado en la consola de ejecutarlo debería de verse así:
+* #### El resultado en la consola debería verse así:
 
 <pre> 
     $ ruby ejercicio2.rb
